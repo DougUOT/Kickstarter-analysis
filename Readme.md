@@ -1,4 +1,4 @@
-# Analysis - Chellenge 1 (Kickstarter)
+# Analysis - Challenge 1 (Kickstarter)
 
 This project regarding Module 1: kickstart was developed on an Excel software base related to the Bootcamp Data Analytics from the University of Toronto. The goal consists of analyzing the data with more than 4,000 crowdfunding projects. All material regarding the findings and data analysis related to this project will be available on Gitbut for public view.
 Purpose
